@@ -1,3 +1,3 @@
-# meritis (optimization contest created by egaetan
+# meritis (optimization contest created by egaetan)
 
 https://devoxx23.meritis-challenge.fr/
